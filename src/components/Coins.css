@@ -1,0 +1,70 @@
+img {
+  width: 12%;
+  padding: 0em 0.5em;
+}
+
+.spread--items > div {
+  display: flex;
+  align-items: center;
+  width: 70%;
+}
+.spread--items {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  /* background-color: #928; */
+  /* width: 60%; */
+  color: #eee;
+  font-size: 0.9rem;
+  font-weight: 500;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.spread--items > span {
+  /* padding-left: 4em; */
+  margin-left: -5em;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+}
+
+.color--font {
+  color: #9b9b9b;
+  font-size: 0.8rem;
+}
+
+.red--color {
+  color: #e15241;
+}
+
+.green--color {
+  color: #8dc647;
+}
+
+.price--hour {
+  font-size: 0.8rem;
+}
+
+tbody > tr > td {
+  padding: 1em 1em;
+  /* background-color: #289; */
+}
+
+tbody > tr > td {
+  border-bottom: 1px solid #636363;
+}
+
+.rank--order {
+  /* display: flex; */
+}
+.rank--order > .MuiSvgIcon-root {
+  /* font-size: 1.25rem; */
+  /* align-items: flex-start; */
+}
+.rank {
+  /* margin-top: -4em; */
+  background-color: #404040;
+  color: #9b9b9b;
+  font-size: 0.9rem;
+  padding: 0em;
+  text-align: center;
+}
